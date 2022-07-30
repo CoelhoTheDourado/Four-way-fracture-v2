@@ -1,0 +1,894 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "mind",
+		"player1": "sonic",
+		"player2": "Empty",
+		"player3": null,
+		"events": [
+			[
+				2906.25,
+				[
+					[
+						"MoveArrow",
+						"4",
+						"-316, 0, -360, 0.7, 10"
+					],
+					[
+						"MoveArrow",
+						"5",
+						"-316, 0, -360, 0.7, 10"
+					],
+					[
+						"MoveArrow",
+						"6",
+						"-316, 0, -360, 0.7, 10"
+					],
+					[
+						"MoveArrow",
+						"7",
+						"-316, 0, -360, 0.7, 10"
+					]
+				]
+			],
+			[
+				3000,
+				[
+					[
+						"MoveArrow",
+						"0",
+						"323, 0, 360, 0.5, 10"
+					],
+					[
+						"MoveArrow",
+						"1",
+						"323, 0, 360, 0.5, 10"
+					],
+					[
+						"MoveArrow",
+						"2",
+						"323, 0, 360, 0.5, 10"
+					],
+					[
+						"MoveArrow",
+						"3",
+						"323, 0, 360, 0.5, 10"
+					]
+				]
+			],
+			[
+				3750,
+				[
+					[
+						"Lyrics Opp Side",
+						"Use the Heal Notes during Fleetway's turn",
+						"5"
+					]
+				]
+			],
+			[
+				9843.75,
+				[
+					[
+						"Lyrics Opp Side",
+						"You'll need them",
+						"1"
+					]
+				]
+			],
+			[
+				10125,
+				[
+					[
+						"static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				10312.5,
+				[
+					[
+						"static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				10687.5,
+				[
+					[
+						"static",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"2",
+						"fleetway_white"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Change Character",
+						"2",
+						"sonic_white"
+					],
+					[
+						"Change Character",
+						"1",
+						"fleetway_opponent"
+					],
+					[
+						"Change Character",
+						"0",
+						"Empty"
+					],
+					[
+						"static",
+						"",
+						""
+					],
+					[
+						"Replace stage layer",
+						"fleetway",
+						"sonic"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Change Character",
+						"2",
+						"fleetway_white"
+					],
+					[
+						"Change Character",
+						"0",
+						"sonic"
+					],
+					[
+						"Change Character",
+						"1",
+						"Empty"
+					],
+					[
+						"static",
+						"",
+						""
+					],
+					[
+						"Replace stage layer",
+						"sonic",
+						"fleetway"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Replace stage layer",
+						"fleetway",
+						"sonic"
+					],
+					[
+						"Change Character",
+						"0",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"1",
+						"fleetway_opponent"
+					],
+					[
+						"Change Character",
+						"2",
+						"sonic_white"
+					],
+					[
+						"static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Change Character",
+						"2",
+						"fleetway_white"
+					],
+					[
+						"Change Character",
+						"0",
+						"sonic_scared"
+					],
+					[
+						"Change Character",
+						"1",
+						"Empty"
+					],
+					[
+						"Replace stage layer",
+						"sonic",
+						"fleetway"
+					],
+					[
+						"static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"Replace stage layer",
+						"fleetway",
+						"sonic"
+					],
+					[
+						"static",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"1",
+						"fleetway_opponent"
+					],
+					[
+						"Change Character",
+						"2",
+						"sonic_white"
+					]
+				]
+			],
+			[
+				156093.75,
+				[
+					[
+						"Change Character",
+						"2",
+						"fleetway_white"
+					],
+					[
+						"Change Character",
+						"1",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"0",
+						"sonic_scared"
+					],
+					[
+						"Replace stage layer",
+						"sonic",
+						"fleetway"
+					]
+				]
+			],
+			[
+				158274.193548387,
+				[
+					[
+						"Replace stage layer",
+						"fleetway",
+						"sonic"
+					],
+					[
+						"Change Character",
+						"0",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"1",
+						"fleetway_opponent"
+					],
+					[
+						"Change Character",
+						"2",
+						"sonic_white"
+					],
+					[
+						"static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				162048.387096774,
+				[
+					[
+						"static",
+						"",
+						""
+					],
+					[
+						"Replace stage layer",
+						"sonic",
+						"fleetway"
+					],
+					[
+						"Change Character",
+						"0",
+						"sonic_scared"
+					],
+					[
+						"Change Character",
+						"1",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"2",
+						"fleetway_white"
+					]
+				]
+			],
+			[
+				165048.387096774,
+				[
+					[
+						"static",
+						"",
+						""
+					],
+					[
+						"Replace stage layer",
+						"fleetway",
+						"sonic"
+					],
+					[
+						"Change Character",
+						"0",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"1",
+						"fleetway_opponent"
+					],
+					[
+						"Change Character",
+						"2",
+						"sonic_white"
+					]
+				]
+			],
+			[
+				167298.387096774,
+				[
+					[
+						"Replace stage layer",
+						"sonic",
+						"fleetway"
+					],
+					[
+						"Change Character",
+						"0",
+						"sonic_scared"
+					],
+					[
+						"Change Character",
+						"1",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"2",
+						"fleetway_white"
+					],
+					[
+						"static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				167392.137096774,
+				[
+					[
+						"Replace stage layer",
+						"fleetway",
+						"sonic"
+					],
+					[
+						"Change Character",
+						"0",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"1",
+						"fleetway_opponent"
+					],
+					[
+						"Change Character",
+						"2",
+						"sonic_white"
+					]
+				]
+			],
+			[
+				170322.580645161,
+				[
+					[
+						"Replace stage layer",
+						"sonic",
+						"fleetway"
+					],
+					[
+						"Change Character",
+						"0",
+						"sonic_scared"
+					],
+					[
+						"Change Character",
+						"2",
+						"fleetway_white"
+					],
+					[
+						"Change Character",
+						"1",
+						"Empty"
+					],
+					[
+						"static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				172596.774193548,
+				[
+					[
+						"static",
+						"",
+						""
+					],
+					[
+						"Replace stage layer",
+						"fleetway",
+						"sonic"
+					],
+					[
+						"Change Character",
+						"0",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"1",
+						"fleetway_opponent"
+					],
+					[
+						"Change Character",
+						"2",
+						"sonic_white"
+					]
+				]
+			],
+			[
+				176263.440860215,
+				[
+					[
+						"Change Character",
+						"2",
+						"fleetway_white"
+					],
+					[
+						"Change Character",
+						"1",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"0",
+						"sonic_scared"
+					],
+					[
+						"static",
+						"",
+						""
+					],
+					[
+						"Replace stage layer",
+						"sonic",
+						"fleetway"
+					]
+				]
+			],
+			[
+				178906.298003072,
+				[
+					[
+						"Replace stage layer",
+						"fleetway",
+						"sonic"
+					],
+					[
+						"Change Character",
+						"0",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"1",
+						"fleetway_opponent"
+					],
+					[
+						"static",
+						"2",
+						"sonic_white"
+					]
+				]
+			],
+			[
+				180049.155145929,
+				[
+					[
+						"Replace stage layer",
+						"sonic",
+						"fleetway"
+					],
+					[
+						"static",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"sonic_scared"
+					],
+					[
+						"Change Character",
+						"1",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"2",
+						"fleetway_white"
+					]
+				]
+			],
+			[
+				192049.155145929,
+				[
+					[
+						"Replace stage layer",
+						"fleetway",
+						"sonic"
+					],
+					[
+						"Change Character",
+						"0",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"1",
+						"fleetway_opponent"
+					],
+					[
+						"Change Character",
+						"2",
+						"sonic_white"
+					],
+					[
+						"static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				193549.155145929,
+				[
+					[
+						"Replace stage layer",
+						"sonic",
+						"fleetway"
+					],
+					[
+						"static",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"sonic_scared"
+					],
+					[
+						"Change Character",
+						"1",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"2",
+						"fleetway_white"
+					]
+				]
+			],
+			[
+				199549.155145929,
+				[
+					[
+						"Replace stage layer",
+						"fleetway",
+						"sonic"
+					],
+					[
+						"static",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"2",
+						"sonic_white"
+					],
+					[
+						"Change Character",
+						"1",
+						"fleetway_opponent"
+					]
+				]
+			],
+			[
+				201049.155145929,
+				[
+					[
+						"Replace stage layer",
+						"sonic",
+						"fleetway"
+					],
+					[
+						"static",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"sonic_scared"
+					],
+					[
+						"Change Character",
+						"1",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"2",
+						"fleetway_white"
+					]
+				]
+			],
+			[
+				202549.155145929,
+				[
+					[
+						"Replace stage layer",
+						"fleetway",
+						"sonic"
+					],
+					[
+						"static",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"1",
+						"fleetway_opponent"
+					],
+					[
+						"Change Character",
+						"2",
+						"sonic_white"
+					]
+				]
+			],
+			[
+				203205.405145929,
+				[
+					[
+						"MoveArrow",
+						"0",
+						"-323, 0, -360, 0.5, 2"
+					],
+					[
+						"MoveArrow",
+						"1",
+						"-323, 0, -360, 0.5, 2"
+					],
+					[
+						"MoveArrow",
+						"2",
+						"316, 0, 720, 0.5, 2"
+					],
+					[
+						"MoveArrow",
+						"3",
+						"316, 0, 720, 0.5, 2"
+					]
+				]
+			],
+			[
+				203767.905145929,
+				[
+					[
+						"Fuck Your Health",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				204049.155145929,
+				[
+					[
+						"Replace stage layer",
+						"sonic",
+						"fleetway"
+					],
+					[
+						"ChangeSecondaryCharacter",
+						"empty1",
+						"tails"
+					],
+					[
+						"ChangeSecondaryCharacter",
+						"empty2",
+						"knuckles"
+					],
+					[
+						"Change Character",
+						"0",
+						"sonic_struggle"
+					],
+					[
+						"Change Character",
+						"1",
+						"Empty"
+					],
+					[
+						"Change Character",
+						"2",
+						"Empty"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				228049.155145929,
+				[
+					[
+						"Fuck Your Health",
+						"0",
+						""
+					],
+					[
+						"Opponent Fade",
+						"0",
+						"0.5"
+					],
+					[
+						"Change Character",
+						"0",
+						"sonic_brave"
+					],
+					[
+						"ChangeSecondaryCharacter",
+						"tails",
+						"empty1"
+					],
+					[
+						"ChangeSecondaryCharacter",
+						"knuckles",
+						"empty2"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				240049.155145929,
+				[
+					[
+						"Change Character",
+						"1",
+						"fleetway_angry"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				252049.155145929,
+				[
+					[
+						"Opponent Fade",
+						"1",
+						"0"
+					],
+					[
+						"MoveArrow",
+						"0",
+						"0, 0, 0, 0, 1"
+					],
+					[
+						"MoveArrow",
+						"1",
+						"0, 0, 0, 0, 1"
+					],
+					[
+						"MoveArrow",
+						"2",
+						"0, 0, 0, 0, 1"
+					],
+					[
+						"MoveArrow",
+						"3",
+						"0, 0, 0, 0, 1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "Empty",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Schizomania"
+	}
+}
