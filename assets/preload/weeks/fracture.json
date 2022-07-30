@@ -1,0 +1,31 @@
+{
+	"storyName": "I am God",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "forest",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "Tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Four Way Fracture",
+			"beast",
+			[
+				146,
+				73,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"beast",
+		"bf",
+		""
+	],
+	"weekName": "God"
+}
