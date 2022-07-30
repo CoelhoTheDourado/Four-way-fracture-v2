@@ -1,0 +1,144 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "epilogue",
+		"player1": "tails_epilogue",
+		"player2": "Empty",
+		"player3": null,
+		"events": [
+			[
+				895.522388059701,
+				[
+					[
+						"Opponent Fade",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				54626.8656716418,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonic_epilogue"
+					]
+				]
+			],
+			[
+				57313.4328358209,
+				[
+					[
+						"Opponent Fade",
+						"2",
+						"0.5"
+					]
+				]
+			],
+			[
+				71641.7910447761,
+				[
+					[
+						"Opponent Fade",
+						"0.6",
+						"0"
+					]
+				]
+			],
+			[
+				85746.2686567164,
+				[
+					[
+						"Image Flash",
+						"flashback1",
+						"0.12"
+					]
+				]
+			],
+			[
+				87537.3134328359,
+				[
+					[
+						"Image Flash",
+						"flashback2",
+						"0.12"
+					]
+				]
+			],
+			[
+				92910.4477611941,
+				[
+					[
+						"Image Flash",
+						"flashback3",
+						"0.12"
+					]
+				]
+			],
+			[
+				94701.4925373135,
+				[
+					[
+						"Image Flash",
+						"flashback4",
+						"0.12"
+					]
+				]
+			],
+			[
+				97500.0000000001,
+				[
+					[
+						"Image Flash",
+						"flashback5",
+						"0.12"
+					]
+				]
+			],
+			[
+				104440.298507463,
+				[
+					[
+						"Image Flash",
+						"flashback6",
+						"1"
+					]
+				]
+			],
+			[
+				113731.343283582,
+				[
+					[
+						"Opponent Fade",
+						"5",
+						"0.5"
+					],
+					[
+						"Hud Fade",
+						"3",
+						"0"
+					]
+				]
+			],
+			[
+				132537.313432836,
+				[
+					[
+						"Opponent Fade",
+						"10",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "Empty",
+		"bpm": 134,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "reason-to-hide"
+	}
+}
