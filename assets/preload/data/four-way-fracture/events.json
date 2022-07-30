@@ -1,0 +1,1029 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "sonicExeP3",
+		"player1": "bf",
+		"player2": "tailshalf",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play Animation",
+						"help",
+						"Dad"
+					]
+				]
+			],
+			[
+				308.219178082192,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				410.958904109589,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				1541.09589041096,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				15205.4794520548,
+				[
+					[
+						"Change Character",
+						"1",
+						"tails"
+					],
+					[
+						"Image Flash",
+						"Tails",
+						"0.01"
+					],
+					[
+						"Play Sound",
+						"TailsScreamLOL",
+						"0.05"
+					]
+				]
+			],
+			[
+				15269.6917808219,
+				[
+					[
+						"HealthDrain",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				94109.589041096,
+				[
+					[
+						"HealthDrain",
+						"0.6",
+						"0.5"
+					]
+				]
+			],
+			[
+				100582.191780822,
+				[
+					[
+						"HealthDrain",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				105924.657534247,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107260.273972603,
+				[
+					[
+						"Change Character",
+						"1",
+						"xenophanes"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf_2"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				107465.753424658,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					],
+					[
+						"Replace stage layer",
+						"plasticShit",
+						"bg"
+					]
+				]
+			],
+			[
+				107773.97260274,
+				[
+					[
+						"HealthDrain",
+						"0.7",
+						"0.01"
+					]
+				]
+			],
+			[
+				110547.94520548,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				110650.684931507,
+				[
+					[
+						"HealthDrain",
+						"0.7",
+						"0.01"
+					]
+				]
+			],
+			[
+				112500,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				112602.739726028,
+				[
+					[
+						"HealthDrain",
+						"0.7",
+						"0.01"
+					]
+				]
+			],
+			[
+				120410.95890411,
+				[
+					[
+						"HealthDrain",
+						"0.8",
+						"0.01"
+					]
+				]
+			],
+			[
+				125445.205479452,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				125547.94520548,
+				[
+					[
+						"HealthDrain",
+						"0.8",
+						"0.01"
+					]
+				]
+			],
+			[
+				130273.97260274,
+				[
+					[
+						"HealthDrain",
+						"0.7",
+						"0.01"
+					]
+				]
+			],
+			[
+				132020.547945206,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				132123.287671233,
+				[
+					[
+						"HealthDrain",
+						"0.7",
+						"0.01"
+					]
+				]
+			],
+			[
+				133502.568493151,
+				[
+					[
+						"MoveArrow",
+						"0",
+						"635, 0, 0, 1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"1",
+						"635, 0, 0, 1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"2",
+						"635, 0, 0, 1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"3",
+						"635, 0, 0, 1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"4",
+						"-635, 0, 0, 1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"5",
+						"-635, 0, 0, 1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"6",
+						"-635, 0, 0, 1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"7",
+						"-635, 0, 0, 1, 0.01"
+					]
+				]
+			],
+			[
+				133561.643835617,
+				[
+					[
+						"Change Character",
+						"1",
+						"knuxhalf-flipped"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-flippednew"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					],
+					[
+						"Replace stage layer",
+						"bg",
+						"plasticShit"
+					],
+					[
+						"Play Animation",
+						"turn",
+						"bf"
+					]
+				]
+			],
+			[
+				146712.328767123,
+				[
+					[
+						"Change Character",
+						"1",
+						"knux-flipped"
+					],
+					[
+						"Image Flash",
+						"Knuckles",
+						"0.01"
+					],
+					[
+						"Play Sound",
+						"KnucklesScreamLOL",
+						"0.05"
+					]
+				]
+			],
+			[
+				146815.068493151,
+				[
+					[
+						"HealthDrain",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				199315.068493151,
+				[
+					[
+						"HealthDrain",
+						"0.6",
+						"0.01"
+					]
+				]
+			],
+			[
+				202602.739726028,
+				[
+					[
+						"HealthDrain",
+						"0.5",
+						"0.01"
+					]
+				]
+			],
+			[
+				225616.438356165,
+				[
+					[
+						"HealthDrain",
+						"0.6",
+						"0.01"
+					]
+				]
+			],
+			[
+				237328.767123288,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				237431.506849315,
+				[
+					[
+						"HealthDrain",
+						"0.6",
+						"0.01"
+					]
+				]
+			],
+			[
+				238792.808219178,
+				[
+					[
+						"Change Character",
+						"1",
+						"xenophanes_flipped"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf_2_flipped"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					],
+					[
+						"Replace stage layer",
+						"plasticShit",
+						"bg"
+					]
+				]
+			],
+			[
+				238972.602739726,
+				[
+					[
+						"HealthDrain",
+						"0.5",
+						"0.01"
+					]
+				]
+			],
+			[
+				265376.712328767,
+				[
+					[
+						"HealthDrain",
+						"0.7",
+						"0.01"
+					]
+				]
+			],
+			[
+				289212.328767124,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf"
+					],
+					[
+						"Change Character",
+						"1",
+						"egghalf"
+					],
+					[
+						"Replace stage layer",
+						"bg",
+						"plasticShit"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				289315.068493151,
+				[
+					[
+						"Play Animation",
+						"dialogue",
+						"egghalf"
+					],
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				289315.068493151,
+				[
+					[
+						"MoveArrow",
+						"7",
+						"635, 0, 0, 1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"6",
+						"635, 0, 0, 1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"5",
+						"635, 0, 0, 1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"4",
+						"635, 0, 0, 1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"3",
+						"-635, 0, 0, 1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"2",
+						"-635, 0, 0, 1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"1",
+						"-635, 0, 0, 1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"0",
+						"-635, 0, 0, 1, 0.01"
+					]
+				]
+			],
+			[
+				289828.767123288,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				296967.940254168,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				302163.723386698,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"egghalf"
+					]
+				]
+			],
+			[
+				308669.747483083,
+				[
+					[
+						"Change Character",
+						"1",
+						"egg"
+					],
+					[
+						"Image Flash",
+						"Eggman",
+						"0.01"
+					],
+					[
+						"Play Sound",
+						"EggmanScreamLOL",
+						"0.05"
+					]
+				]
+			],
+			[
+				308760.108928866,
+				[
+					[
+						"HealthDrain",
+						"0.6",
+						"0.01"
+					]
+				]
+			],
+			[
+				313729.988446939,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"egg"
+					]
+				]
+			],
+			[
+				313820.349892722,
+				[
+					[
+						"HealthDrain",
+						"0.6",
+						"0.01"
+					]
+				]
+			],
+			[
+				330717.940254167,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				331079.3860373,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"egg"
+					]
+				]
+			],
+			[
+				331802.277603565,
+				[
+					[
+						"HealthDrain",
+						"0.7",
+						"0.01"
+					]
+				]
+			],
+			[
+				353760.108928866,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				354844.446278264,
+				[
+					[
+						"HealthDrain",
+						"0.7",
+						"0.01"
+					]
+				]
+			],
+			[
+				406260.108928866,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"egg"
+					]
+				]
+			],
+			[
+				411279.687242119,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				411320.349892721,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"egg"
+					]
+				]
+			],
+			[
+				412766.133025251,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf_2"
+					],
+					[
+						"Change Character",
+						"1",
+						"xenophanes"
+					],
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					],
+					[
+						"Replace stage layer",
+						"plasticShit",
+						"bg"
+					],
+					[
+						"Image Flash",
+						"Sonic",
+						"0.01"
+					]
+				]
+			],
+			[
+				412856.494471034,
+				[
+					[
+						"HealthDrain",
+						"0.7",
+						"0.01"
+					]
+				]
+			],
+			[
+				425416.73543489,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				425507.096880673,
+				[
+					[
+						"HealthDrain",
+						"0.7",
+						"0.01"
+					]
+				]
+			],
+			[
+				509272.157121636,
+				[
+					[
+						"Image Flash",
+						"majin",
+						"0.1"
+					]
+				]
+			],
+			[
+				509317.337844527,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf+majin"
+					],
+					[
+						"Change Character",
+						"1",
+						"mazin"
+					]
+				]
+			],
+			[
+				509633.602904768,
+				[
+					[
+						"HealthDrain",
+						"-1",
+						"0.01"
+					]
+				]
+			],
+			[
+				522645.651097539,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				523187.819772238,
+				[
+					[
+						"HealthDrain",
+						"-1",
+						"0.01"
+					]
+				]
+			],
+			[
+				526802.277603563,
+				[
+					[
+						"Replace stage layer",
+						"bg",
+						"plasticShit"
+					]
+				]
+			],
+			[
+				526892.639049347,
+				[
+					[
+						"HealthDrain",
+						"-1",
+						"0.01"
+					]
+				]
+			],
+			[
+				545778.181218022,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				546681.795675853,
+				[
+					[
+						"HealthDrain",
+						"-1",
+						"0.01"
+					]
+				]
+			],
+			[
+				568910.711338505,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				569272.157121637,
+				[
+					[
+						"HealthDrain",
+						"-1",
+						"0.01"
+					]
+				]
+			],
+			[
+				589422.759531276,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				590687.81977224,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				591862.518567421,
+				[
+					[
+						"Replace stage layer",
+						"bg",
+						"plasticShit"
+					]
+				]
+			],
+			[
+				591986.765555373,
+				[
+					[
+						"MoveArrow",
+						"0",
+						"315, 0, 0, 0.1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"1",
+						"315, 0, 0, 0.1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"2",
+						"315, 0, 0, 0.1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"3",
+						"315, 0, 0, 0.1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"4",
+						"-315, 0, 0, 1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"5",
+						"-315, 0, 0, 1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"6",
+						"-315, 0, 0, 1, 0.01"
+					],
+					[
+						"MoveArrow",
+						"7",
+						"-315, 0, 0, 1, 0.01"
+					]
+				]
+			],
+			[
+				592043.241458987,
+				[
+					[
+						"Change Character",
+						"1",
+						"xenophanes"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf_2"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					],
+					[
+						"Replace stage layer",
+						"plasticShit",
+						"bg"
+					]
+				]
+			],
+			[
+				592766.133025252,
+				[
+					[
+						"HealthDrain",
+						"0.6",
+						"0.01"
+					]
+				]
+			],
+			[
+				609392.639049349,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf+majin_2"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				609483.000495132,
+				[
+					[
+						"HealthDrain",
+						"0.8",
+						"0.01"
+					]
+				]
+			],
+			[
+				626742.036639711,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "Empty",
+		"bpm": 146,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Four Way Fracture"
+	}
+}
