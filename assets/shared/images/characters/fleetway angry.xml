@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fleetway angry.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fleet down0000" x="0" y="0" width="366" height="549"/>
+	<SubTexture name="Fleet down0001" x="0" y="0" width="366" height="549"/>
+	<SubTexture name="Fleet down0002" x="408" y="0" width="366" height="549"/>
+	<SubTexture name="Fleet down0003" x="408" y="0" width="366" height="549"/>
+	<SubTexture name="Fleet down0004" x="816" y="0" width="366" height="549"/>
+	<SubTexture name="Fleet down0005" x="816" y="0" width="366" height="549"/>
+	<SubTexture name="Fleet down0006" x="1224" y="0" width="366" height="549"/>
+	<SubTexture name="Fleet down0007" x="1224" y="0" width="366" height="549"/>
+	<SubTexture name="Fleet down0008" x="1224" y="0" width="366" height="549"/>
+	<SubTexture name="Fleet down0009" x="1224" y="0" width="366" height="549"/>
+	<SubTexture name="Fleet down0010" x="1224" y="0" width="366" height="549"/>
+	<SubTexture name="Fleet down0011" x="1224" y="0" width="366" height="549"/>
+	<SubTexture name="Fleet down0012" x="1224" y="0" width="366" height="549"/>
+	<SubTexture name="Fleet down0013" x="1224" y="0" width="366" height="549"/>
+	<SubTexture name="Fleet left0000" x="1632" y="0" width="371" height="551"/>
+	<SubTexture name="Fleet left0001" x="1632" y="0" width="371" height="551"/>
+	<SubTexture name="Fleet left0002" x="2045" y="0" width="371" height="551"/>
+	<SubTexture name="Fleet left0003" x="2045" y="0" width="371" height="551"/>
+	<SubTexture name="Fleet left0004" x="2458" y="0" width="371" height="551"/>
+	<SubTexture name="Fleet left0005" x="2458" y="0" width="371" height="551"/>
+	<SubTexture name="Fleet left0006" x="2871" y="0" width="371" height="551"/>
+	<SubTexture name="Fleet left0007" x="2871" y="0" width="371" height="551"/>
+	<SubTexture name="Fleet left0008" x="2871" y="0" width="371" height="551"/>
+	<SubTexture name="Fleet left0009" x="2871" y="0" width="371" height="551"/>
+	<SubTexture name="Fleet left0010" x="2871" y="0" width="371" height="551"/>
+	<SubTexture name="Fleet left0011" x="2871" y="0" width="371" height="551"/>
+	<SubTexture name="Fleet left0012" x="2871" y="0" width="371" height="551"/>
+	<SubTexture name="Fleet left0013" x="2871" y="0" width="371" height="551"/>
+	<SubTexture name="Fleet right0000" x="3284" y="0" width="420" height="543"/>
+	<SubTexture name="Fleet right0001" x="3284" y="0" width="420" height="543"/>
+	<SubTexture name="Fleet right0002" x="0" y="593" width="420" height="543"/>
+	<SubTexture name="Fleet right0003" x="0" y="593" width="420" height="543"/>
+	<SubTexture name="Fleet right0004" x="462" y="593" width="420" height="543"/>
+	<SubTexture name="Fleet right0005" x="462" y="593" width="420" height="543"/>
+	<SubTexture name="Fleet right0006" x="924" y="593" width="420" height="543"/>
+	<SubTexture name="Fleet right0007" x="924" y="593" width="420" height="543"/>
+	<SubTexture name="Fleet right0008" x="1386" y="593" width="420" height="543"/>
+	<SubTexture name="Fleet right0009" x="1386" y="593" width="420" height="543"/>
+	<SubTexture name="Fleet right0010" x="1386" y="593" width="420" height="543"/>
+	<SubTexture name="Fleet right0011" x="1386" y="593" width="420" height="543"/>
+	<SubTexture name="Fleet right0012" x="1386" y="593" width="420" height="543"/>
+	<SubTexture name="Fleet right0013" x="1386" y="593" width="420" height="543"/>
+	<SubTexture name="Fleet up0000" x="1848" y="593" width="417" height="492"/>
+	<SubTexture name="Fleet up0001" x="1848" y="593" width="417" height="492"/>
+	<SubTexture name="Fleet up0002" x="2307" y="593" width="417" height="492"/>
+	<SubTexture name="Fleet up0003" x="2307" y="593" width="417" height="492"/>
+	<SubTexture name="Fleet up0004" x="2766" y="593" width="417" height="492"/>
+	<SubTexture name="Fleet up0005" x="2766" y="593" width="417" height="492"/>
+	<SubTexture name="Fleet up0006" x="3225" y="593" width="417" height="492"/>
+	<SubTexture name="Fleet up0007" x="3225" y="593" width="417" height="492"/>
+	<SubTexture name="Fleet up0008" x="3225" y="593" width="417" height="492"/>
+	<SubTexture name="Fleet up0009" x="3225" y="593" width="417" height="492"/>
+	<SubTexture name="Fleet up0010" x="3225" y="593" width="417" height="492"/>
+	<SubTexture name="Fleet up0011" x="3225" y="593" width="417" height="492"/>
+	<SubTexture name="Fleet up0012" x="3225" y="593" width="417" height="492"/>
+	<SubTexture name="Fleet up0013" x="3225" y="593" width="417" height="492"/>
+</TextureAtlas>
